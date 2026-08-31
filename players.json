@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "سیدحسین حسینی",
+    "number": 1,
+    "position": "GK",
+    "position_fa": "دروازه‌بان",
+    "age": 33,
+    "nationality": "ایران",
+    "rating": 79
+  },
+  {
+    "id": 2,
+    "name": "رامین رضاییان",
+    "number": 10,
+    "position": "DEF",
+    "position_fa": "مدافع راست",
+    "age": 36,
+    "nationality": "ایران",
+    "rating": 81
+  },
+  {
+    "id": 3,
+    "name": "ابوالفضل جلالی",
+    "number": 18,
+    "position": "DEF",
+    "position_fa": "مدافع چپ",
+    "age": 27,
+    "nationality": "ایران",
+    "rating": 77
+  },
+  {
+    "id": 4,
+    "name": "روزبه چشمی",
+    "number": 4,
+    "position": "MID",
+    "position_fa": "هافبک دفاعی",
+    "age": 33,
+    "nationality": "ایران",
+    "rating": 78
+  },
+  {
+    "id": 5,
+    "name": "محمدحسین اسلامی",
+    "number": 8,
+    "position": "MID",
+    "position_fa": "هافبک",
+    "age": 24,
+    "nationality": "ایران",
+    "rating": 78
+  },
+  {
+    "id": 6,
+    "name": "مهران احمدی",
+    "number": 7,
+    "position": "MID",
+    "position_fa": "هافبک",
+    "age": 24,
+    "nationality": "ایران",
+    "rating": 79
+  },
+  {
+    "id": 7,
+    "name": "محمدجواد حسین‌نژاد",
+    "number": 66,
+    "position": "MID",
+    "position_fa": "هافبک",
+    "age": 22,
+    "nationality": "ایران",
+    "rating": 82
+  },
+  {
+    "id": 8,
+    "name": "سعید سهرخیزان",
+    "number": 19,
+    "position": "ATT",
+    "position_fa": "مهاجم",
+    "age": 23,
+    "nationality": "ایران",
+    "rating": 79
+  },
+  {
+    "id": 9,
+    "name": "محمدرضا آزادی",
+    "number": 99,
+    "position": "ATT",
+    "position_fa": "مهاجم",
+    "age": 26,
+    "nationality": "ایران",
+    "rating": 78
+  }
+]
